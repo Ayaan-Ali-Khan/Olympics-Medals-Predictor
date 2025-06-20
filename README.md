@@ -1,0 +1,1 @@
+This is a Olympics Medals Predictor which predicts number of medals won by each team using Linear Regression, Random Forest and a Multi-layer Perceptron with use of some libraries like pandas, numpy and scikit-learn.
